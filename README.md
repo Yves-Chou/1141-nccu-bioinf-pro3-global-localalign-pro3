@@ -1,6 +1,6 @@
 # pro3. perform global|local alignment
-* your name
-* student ID
+* 周彥廷
+* 110601043
 
 ## Description
 
